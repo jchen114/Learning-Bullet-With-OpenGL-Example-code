@@ -1,0 +1,17 @@
+﻿Build started 5/10/2016 6:43:38 PM.
+     1>Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\LinearMath.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\x32\Debug\LinearMath\LinearMath.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         LinearMath.vcxproj -> C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\..\..\lib\LinearMath_vs2010_debug.lib
+       FinalizeBuildStatus:
+         Deleting file "obj\x32\Debug\LinearMath\LinearMath.unsuccessfulbuild".
+         Touching "obj\x32\Debug\LinearMath\LinearMath.lastbuildstate".
+     1>Done Building Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\LinearMath.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35

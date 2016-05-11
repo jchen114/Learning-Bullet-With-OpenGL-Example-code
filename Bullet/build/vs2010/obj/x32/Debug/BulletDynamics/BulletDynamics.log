@@ -1,0 +1,17 @@
+﻿Build started 5/10/2016 6:43:38 PM.
+     1>Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\BulletDynamics.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\x32\Debug\BulletDynamics\BulletDynamics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         BulletDynamics.vcxproj -> C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\..\..\lib\BulletDynamics_vs2010_debug.lib
+       FinalizeBuildStatus:
+         Deleting file "obj\x32\Debug\BulletDynamics\BulletDynamics.unsuccessfulbuild".
+         Touching "obj\x32\Debug\BulletDynamics\BulletDynamics.lastbuildstate".
+     1>Done Building Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Bullet\build\vs2010\BulletDynamics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
